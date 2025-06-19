@@ -1,0 +1,6 @@
+PySimpleGUI
+torch
+transformers
+matplotlib
+seaborn
+pandas

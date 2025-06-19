@@ -1,0 +1,14 @@
+[
+  "TypeError",
+  "FileNotFoundError",
+  "OSError",
+  "RuntimeError",
+  "KeyError",
+  "ValueError",
+  "AttributeError",
+  "IndexError",
+  "AssertionError",
+  "ImportError",
+  "Exception",
+  "NO_BUG"
+]

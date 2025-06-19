@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1024</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>800</width>
+    <height>500</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">/* Фон всего окна */
+QMainWindow#MainWindow {
+    background-color: #1e1e2f;
+QLabel#labelCode,
+QLabel#labelError {
+    color: #ffffff;                  /* белый текст */
+    background-color: #34405e;       /* чуть светлее тёмно-синего */
+    border-radius: 8px;              /* скруглённые углы */
+    padding: 4px 12px;               /* внутренние отступы */
+    font: bold 12pt &quot;Segoe UI&quot;;      /* шрифт и жирность */
+    qproperty-alignment: 'AlignCenter | AlignVCenter';
+}
+
+/* Можно задать разный фон руками, если хотите акцентировать */
+QLabel#labelError {
+    background-color: #3e475f;       /* чуть более «пурпурный» фон */
+}
+
+/* Hover-эффект, если лейблы интерактивные (по желанию) */
+QLabel#labelCode:hover,
+QLabel#labelError:hover {
+    background-color: #41516f;
+}ackground-color: #0d6efd;
+}
+/* Если хочется стилизовать центральный виджет отдельно, можно так */
+QWidget#centralwidget {
+    /* можно оставить пустым или override */
+}
+
+/* Стиль кнопок */
+QPushButton {
+    border: none;
+    border-radius: 15px;
+    padding: 8px 16px;
+    font: 14px &quot;Segoe UI&quot;;
+    color: #fff;
+    background-color: #0d6efd;
+}
+QPushButton:hover {
+    background-color: #0b5ed7;
+}
+QPushButton:checked {
+    background-color: #fff;
+    color: #0d6efd;
+    border: 2px solid #0d6efd;
+}
+
+/* Пример: отдельный стиль для кнопки button1 */
+QPushButton#button1 {
+    /* тут ваши переопределения */
+}
+
+QPushButton {
+    font: 12pt &quot;Segoe UI&quot;;
+    padding: 10px 20px;
+}
+QTextEdit {
+    font: 11pt &quot;Consolas&quot;;
+    color: #e0e0e0;
+}
+
+/* ----------------------------------
+   1. Глобальный фон
+-----------------------------------*/
+QWidget#centralwidget {
+    background-color: #1e1e2f;
+}
+
+/* ----------------------------------
+   2. Секция (GroupBox) с тенью
+-----------------------------------*/
+QGroupBox {
+    background-color: #27293d;
+    border: 1px solid #3a3c55;
+    border-radius: 8px;
+    margin-top: 16px;
+    padding: 12px;
+    /* внешняя тень */
+    qproperty-flat: false;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.5);
+}
+QGroupBox::title {
+    subcontrol-origin: margin;
+    left: 12px;
+    top: -10px;
+    padding: 0 6px;
+    color: #ffffff;
+    font: bold 14pt &quot;Segoe UI&quot;;
+}
+
+/* ----------------------------------
+   3. Верхний заголовок (labelHeader)
+-----------------------------------*/
+QLabel#headerLabel {
+    background-color: #34405e;
+    color: #ffffff;
+    font: bold 18pt &quot;Segoe UI&quot;;
+    padding: 12px 20px;
+    border-radius: 6px;
+    qproperty-alignment: 'AlignCenter';
+    /* лёгкий внутренний градиент */
+    background-image: qlineargradient(
+        x1:0, y1:0, x2:0, y2:1,
+        stop:0 #3b4d70, stop:1 #2a3652
+    );
+}
+
+/* ----------------------------------
+   4. Статус-бар
+-----------------------------------*/
+QStatusBar {
+    background-color: #272a3a;
+    color: #c0c0c0;
+    font: 10pt &quot;Segoe UI&quot;;
+    border-top: 1px solid #3a3c55;
+}
+QStatusBar::item {
+    border: none;
+}
+
+/* ----------------------------------
+   5. Метки «Исходный код» и «Предп. ошибки»
+-----------------------------------*/
+QLabel#labelCode,
+QLabel#labelError {
+    background-color: #41516f;
+    color: #ffffff;
+    font: bold 12pt &quot;Segoe UI&quot;;
+    padding: 4px 12px;
+    border-radius: 6px;
+    qproperty-alignment: 'AlignCenter';
+}
+QLabel#labelError {
+    background-color: #503c4a;
+}
+QLabel#labelCode:hover,
+QLabel#labelError:hover {
+    background-color: #4c5c8a;
+}
+
+
+QTextEdit:focus {
+  border: 1px solid #0d6efd;
+}
+
+/* шапка */
+QLabel#headerLabel {
+  font: bold 18pt &quot;Segoe UI&quot;;
+  color: #ffffff;
+}
+
+/* подписи блоков */
+QLabel#labelCode,
+QLabel#labelError {
+  font: bold 12pt &quot;Segoe UI&quot;;
+  color: #ffffff;
+  background-color: #41516f;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+/* кнопки */
+QPushButton {
+  font: 11pt &quot;Segoe UI&quot;;
+  padding: 6px 12px;
+  color: #fff;
+  background-color: #0d6efd;
+  border-radius: 8px;
+}
+QPushButton:hover {
+  background-color: #0b5ed7;
+}
+QPushButton:pressed {
+  background-color: #0a58ca;
+}
+</string>
+  </property>
+  <property name="statusbar" stdset="0">
+   <string/>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">/* == Фон всей рабочей области == */
+QWidget#centralwidget {
+    background-color: #022f59;
+}
+/* фон всего приложения */
+QWidget#centralwidget {
+    background-color: #1e1e2f;  /* тёмно-синий/фиолетовый */
+}
+
+/* стилизуем «шильдики» над текстовыми полями */
+QLabel#labelCode,
+QLabel#labelError {
+    color: #ffffff;                  /* белый текст */
+    background-color: #34405e;       /* чуть светлее фон */
+    border-radius: 8px;              /* скруглённые углы */
+    padding: 4px 12px;               /* внутренние отступы */
+    font: bold 12pt &quot;Segoe UI&quot;;      /* жирный Segoe UI */
+    qproperty-alignment: 'AlignCenter|AlignVCenter';
+}
+
+/* чуть другой фон для «ошибок» */
+QLabel#labelError {
+    background-color: #3e475f;
+}
+
+/* hover-эффект (опционально) */
+QLabel#labelCode:hover,
+QLabel#labelError:hover {
+    background-color: #41516f;
+}
+
+/* == Редактор кода == */
+QFrame#frameEditor {
+    background-color: #27293d;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+/* == Область результатов == */
+QFrame#frameResult {
+    background-color: #2e2f42;
+    border: 1px solid #3a3c55;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+/* == Кнопки == */
+QPushButton {
+    border: none;
+    border-radius: 12px;
+    padding: 6px 12px;
+    color: #fff;
+    background-color: #0c064f;
+}
+QPushButton:hover {
+    background-color: #0c064f;
+}
+QPushButton:pressed {
+    background-color: #0a58ca;
+}
+
+QGroupBox {
+    border: 1px solid #3a3c55;
+    border-radius: 8px;
+    margin-top: 10px;
+    padding: 12px;
+    background-color: #27293d;
+}
+QGroupBox::title {
+    subcontrol-origin: margin;
+    left: 10px;
+    top: -7px;
+    padding: 0 3px;
+    color: #ffffff;
+}
+
+QLabel#headerLabel {
+    background-color: #34405e;            /* тёмный градиентный фон */
+    color: #ffffff;                       /* белый текст */
+    font: bold 18pt &quot;Segoe UI&quot;;           /* шрифт и размер */
+    padding: 10px 16px;                   /* внутренние отступы */
+    border-radius: 6px;                   /* закруглённые углы */
+    qproperty-alignment: 'AlignCenter';   /* выравнивание текста по центру */
+    /* Дополнительно: вертикальный градиент */
+    background-image: qlineargradient(
+        x1:0, y1:0, x2:0, y2:1,
+        stop:0 #3b4d70, stop:1 #2a3652
+    );
+}</string>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <layout class="QGridLayout" name="gridLayout_3">
+      <item row="3" column="0">
+       <layout class="QHBoxLayout" name="horizontalLayout_6">
+        <item>
+         <widget class="QTextEdit" name="textEdit_2">
+          <property name="html">
+           <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Consolas'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:7.8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:7.8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="5" column="0">
+       <layout class="QHBoxLayout" name="horizontalLayout_7"/>
+      </item>
+      <item row="4" column="0">
+       <layout class="QHBoxLayout" name="horizontalLayout_9">
+        <item>
+         <widget class="QPushButton" name="button1">
+          <property name="font">
+           <font>
+            <family>Segoe UI</family>
+            <pointsize>11</pointsize>
+            <weight>50</weight>
+            <italic>false</italic>
+            <bold>false</bold>
+           </font>
+          </property>
+          <property name="cursor">
+           <cursorShape>PointingHandCursor</cursorShape>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">&lt;ul class=&quot;nav nav-pills nav-fill gap-2 p-1 small bg-primary rounded-5 shadow-sm&quot; id=&quot;pillNav2&quot; role=&quot;tablist&quot; style=&quot;--bs-nav-link-color: var(--bs-white); --bs-nav-pills-link-active-color: var(--bs-primary); --bs-nav-pills-link-active-bg: var(--bs-white);&quot;&gt;
+  &lt;li class=&quot;nav-item&quot; role=&quot;presentation&quot;&gt;
+    &lt;button1 class=&quot;nav-link active rounded-5&quot; id=&quot;home-tab2&quot; data-bs-toggle=&quot;tab&quot; type=&quot;button&quot; role=&quot;tab&quot; aria-selected=&quot;true&quot;&gt;Home&lt;/button&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;nav-item&quot; role=&quot;presentation&quot;&gt;
+    &lt;butto2n class=&quot;nav-link rounded-5&quot; id=&quot;profile-tab2&quot; data-bs-toggle=&quot;tab&quot; type=&quot;button&quot; role=&quot;tab&quot; aria-selected=&quot;false&quot;&gt;Profile&lt;/button&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;nav-item&quot; role=&quot;presentation&quot;&gt;
+    &lt;button3 class=&quot;nav-link rounded-5&quot; id=&quot;contact-tab2&quot; data-bs-toggle=&quot;tab&quot; type=&quot;button&quot; role=&quot;tab&quot; aria-selected=&quot;false&quot;&gt;Contact&lt;/button&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</string>
+          </property>
+          <property name="text">
+           <string>📝Проверить </string>
+          </property>
+          <property name="checkable">
+           <bool>true</bool>
+          </property>
+          <property name="checked">
+           <bool>false</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="2" column="0">
+       <layout class="QHBoxLayout" name="horizontalLayout_8">
+        <item>
+         <widget class="QLabel" name="labelCode">
+          <property name="font">
+           <font>
+            <family>Segoe UI</family>
+            <pointsize>12</pointsize>
+            <weight>75</weight>
+            <italic>false</italic>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="cursor">
+           <cursorShape>PointingHandCursor</cursorShape>
+          </property>
+          <property name="text">
+           <string>💬Исходный код </string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="2" column="2">
+       <widget class="QLabel" name="labelError">
+        <property name="font">
+         <font>
+          <family>Segoe UI</family>
+          <pointsize>12</pointsize>
+          <weight>75</weight>
+          <italic>false</italic>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="cursor">
+         <cursorShape>PointingHandCursor</cursorShape>
+        </property>
+        <property name="text">
+         <string>✍Предпологаемые ошибки</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="1">
+       <widget class="QPushButton" name="button3">
+        <property name="cursor">
+         <cursorShape>PointingHandCursor</cursorShape>
+        </property>
+        <property name="text">
+         <string>🧹Очистить</string>
+        </property>
+        <property name="checkable">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="2">
+       <widget class="QPushButton" name="button2">
+        <property name="cursor">
+         <cursorShape>PointingHandCursor</cursorShape>
+        </property>
+        <property name="text">
+         <string>📂Загрузить файл</string>
+        </property>
+        <property name="checkable">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0" colspan="3">
+       <widget class="QLabel" name="headerLabel">
+        <property name="text">
+         <string>⚙️Система проверки Python-кода на ошибки⚙️</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="2">
+       <widget class="QTextEdit" name="textEdit_3">
+        <property name="html">
+         <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Consolas'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:7.8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:7.8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1024</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="title">
+     <string>Информация</string>
+    </property>
+    <addaction name="action"/>
+    <addaction name="action_2"/>
+    <addaction name="action_3"/>
+   </widget>
+   <addaction name="menu"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="action_5">
+   <property name="text">
+    <string>Возможности ПО</string>
+   </property>
+  </action>
+  <action name="action_9">
+   <property name="text">
+    <string>О программе</string>
+   </property>
+  </action>
+  <action name="action">
+   <property name="text">
+    <string>Возможности ПО</string>
+   </property>
+  </action>
+  <action name="action_2">
+   <property name="text">
+    <string>О программе</string>
+   </property>
+  </action>
+  <action name="action_3">
+   <property name="text">
+    <string>Настройки</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
