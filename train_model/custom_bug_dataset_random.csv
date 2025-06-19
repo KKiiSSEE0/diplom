@@ -1,0 +1,3295 @@
+code,label
+"lst = 1 + ""text""",TypeError
+"var = 1 + ""world""",TypeError
+"x = 1 + ""text""",TypeError
+"x = 1 + ""hello""",TypeError
+"mylist = 1 + ""world""",TypeError
+len(100),TypeError
+"var = 1 + ""python""",TypeError
+len(0),TypeError
+"sum(""world"")",TypeError
+len(100),TypeError
+len(2),TypeError
+"lst = 1 + ""world""",TypeError
+"sum(""text"")",TypeError
+"lst = 1 + ""python""",TypeError
+"sum(""python"")",TypeError
+"b = 1 + ""error""",TypeError
+len(10),TypeError
+"y = 1 + ""world""",TypeError
+len(0),TypeError
+len(1),TypeError
+len(100),TypeError
+"data = 1 + ""text""",TypeError
+len(42),TypeError
+"lst = 1 + ""text""",TypeError
+"sum(""python"")",TypeError
+len(42),TypeError
+len(100),TypeError
+"mylist = 1 + ""error""",TypeError
+"sum(""python"")",TypeError
+len(42),TypeError
+"lst = 1 + ""hello""",TypeError
+len(1),TypeError
+"sum(""hello"")",TypeError
+len(100),TypeError
+"sum(""text"")",TypeError
+len(0),TypeError
+len(42),TypeError
+"foo = 1 + ""world""",TypeError
+len(100),TypeError
+"a = 1 + ""text""",TypeError
+"sum(""python"")",TypeError
+len(42),TypeError
+"y = 1 + ""error""",TypeError
+"b = 1 + ""python""",TypeError
+"sum(""text"")",TypeError
+len(2),TypeError
+len(2),TypeError
+"sum(""hello"")",TypeError
+"a = 1 + ""error""",TypeError
+"sum(""hello"")",TypeError
+"sum(""python"")",TypeError
+"mylist = 1 + ""error""",TypeError
+"sum(""python"")",TypeError
+len(100),TypeError
+"mylist = 1 + ""world""",TypeError
+"x = 1 + ""error""",TypeError
+len(42),TypeError
+len(42),TypeError
+len(10),TypeError
+"data = 1 + ""hello""",TypeError
+"foo = 1 + ""text""",TypeError
+"sum(""error"")",TypeError
+len(1),TypeError
+"sum(""world"")",TypeError
+"b = 1 + ""hello""",TypeError
+"bar = 1 + ""error""",TypeError
+"sum(""world"")",TypeError
+"bar = 1 + ""error""",TypeError
+"data = 1 + ""hello""",TypeError
+len(42),TypeError
+"foo = 1 + ""hello""",TypeError
+"y = 1 + ""hello""",TypeError
+len(1),TypeError
+len(0),TypeError
+"sum(""hello"")",TypeError
+len(100),TypeError
+len(42),TypeError
+"lst = 1 + ""world""",TypeError
+"sum(""error"")",TypeError
+"sum(""python"")",TypeError
+"sum(""world"")",TypeError
+"sum(""world"")",TypeError
+"data = 1 + ""text""",TypeError
+len(1),TypeError
+"dct = 1 + ""python""",TypeError
+"sum(""world"")",TypeError
+"y = 1 + ""text""",TypeError
+"sum(""python"")",TypeError
+len(42),TypeError
+"data = 1 + ""hello""",TypeError
+len(2),TypeError
+len(0),TypeError
+"bar = 1 + ""text""",TypeError
+"sum(""text"")",TypeError
+"sum(""world"")",TypeError
+"mylist = 1 + ""error""",TypeError
+len(42),TypeError
+"sum(""error"")",TypeError
+"mylist = 1 + ""world""",TypeError
+"sum(""python"")",TypeError
+"sum(""python"")",TypeError
+"sum(""hello"")",TypeError
+"lst = 1 + ""text""",TypeError
+"b = 1 + ""hello""",TypeError
+"bar = 1 + ""world""",TypeError
+"sum(""world"")",TypeError
+"y = 1 + ""hello""",TypeError
+"x = 1 + ""python""",TypeError
+"mylist = 1 + ""python""",TypeError
+"foo = 1 + ""python""",TypeError
+"sum(""python"")",TypeError
+"sum(""world"")",TypeError
+"mylist = 1 + ""hello""",TypeError
+"sum(""python"")",TypeError
+len(42),TypeError
+"var = 1 + ""text""",TypeError
+"x = 1 + ""text""",TypeError
+len(0),TypeError
+"sum(""text"")",TypeError
+"sum(""hello"")",TypeError
+"data = 1 + ""hello""",TypeError
+len(0),TypeError
+len(42),TypeError
+len(2),TypeError
+"sum(""python"")",TypeError
+"sum(""python"")",TypeError
+len(10),TypeError
+"sum(""python"")",TypeError
+len(1),TypeError
+len(0),TypeError
+"a = 1 + ""text""",TypeError
+"data = 1 + ""text""",TypeError
+"sum(""text"")",TypeError
+"sum(""text"")",TypeError
+len(0),TypeError
+len(2),TypeError
+"a = 1 + ""error""",TypeError
+"sum(""hello"")",TypeError
+"lst = 1 + ""text""",TypeError
+"foo = 1 + ""hello""",TypeError
+len(0),TypeError
+"sum(""error"")",TypeError
+"a = 1 + ""hello""",TypeError
+len(42),TypeError
+"bar = 1 + ""text""",TypeError
+"sum(""world"")",TypeError
+len(10),TypeError
+"data = 1 + ""python""",TypeError
+len(2),TypeError
+len(0),TypeError
+len(100),TypeError
+"sum(""error"")",TypeError
+len(2),TypeError
+"data = 1 + ""python""",TypeError
+len(42),TypeError
+"x = 1 + ""text""",TypeError
+len(100),TypeError
+len(0),TypeError
+"sum(""text"")",TypeError
+"sum(""python"")",TypeError
+len(2),TypeError
+"sum(""python"")",TypeError
+"sum(""world"")",TypeError
+"sum(""python"")",TypeError
+len(100),TypeError
+"sum(""hello"")",TypeError
+"x = 1 + ""python""",TypeError
+"foo = 1 + ""error""",TypeError
+"sum(""hello"")",TypeError
+"sum(""hello"")",TypeError
+"sum(""text"")",TypeError
+"y = 1 + ""python""",TypeError
+len(10),TypeError
+"b = 1 + ""world""",TypeError
+"mylist = 1 + ""world""",TypeError
+len(0),TypeError
+"mylist = 1 + ""world""",TypeError
+len(0),TypeError
+"data = 1 + ""world""",TypeError
+len(0),TypeError
+"sum(""hello"")",TypeError
+"sum(""python"")",TypeError
+"foo = 1 + ""hello""",TypeError
+"sum(""world"")",TypeError
+"sum(""text"")",TypeError
+len(2),TypeError
+"sum(""hello"")",TypeError
+len(2),TypeError
+"sum(""hello"")",TypeError
+"sum(""world"")",TypeError
+"sum(""hello"")",TypeError
+"var = 1 + ""python""",TypeError
+"sum(""hello"")",TypeError
+"bar = 1 + ""world""",TypeError
+"a = 1 + ""python""",TypeError
+"sum(""world"")",TypeError
+len(10),TypeError
+"sum(""world"")",TypeError
+"sum(""world"")",TypeError
+"sum(""text"")",TypeError
+"open(""not_a_file_8251.txt"")",FileNotFoundError
+"open(""not_a_file_5485.txt"")",FileNotFoundError
+"open(""not_a_file_1691.txt"")",FileNotFoundError
+"open(""not_a_file_2289.txt"")",FileNotFoundError
+"open(""not_a_file_1460.txt"")",FileNotFoundError
+"open(""not_a_file_1737.txt"")",FileNotFoundError
+"open(""not_a_file_7678.txt"")",FileNotFoundError
+"open(""not_a_file_7652.txt"")",FileNotFoundError
+"open(""not_a_file_1366.txt"")",FileNotFoundError
+"open(""not_a_file_6836.txt"")",FileNotFoundError
+"open(""not_a_file_9780.txt"")",FileNotFoundError
+"open(""not_a_file_2375.txt"")",FileNotFoundError
+"open(""not_a_file_1432.txt"")",FileNotFoundError
+"open(""not_a_file_9016.txt"")",FileNotFoundError
+"open(""not_a_file_6218.txt"")",FileNotFoundError
+"open(""not_a_file_7043.txt"")",FileNotFoundError
+"open(""not_a_file_1104.txt"")",FileNotFoundError
+"open(""not_a_file_3717.txt"")",FileNotFoundError
+"open(""not_a_file_5384.txt"")",FileNotFoundError
+"open(""not_a_file_9456.txt"")",FileNotFoundError
+"open(""not_a_file_9643.txt"")",FileNotFoundError
+"open(""not_a_file_9052.txt"")",FileNotFoundError
+"open(""not_a_file_7175.txt"")",FileNotFoundError
+"open(""not_a_file_7175.txt"")",FileNotFoundError
+"open(""not_a_file_7312.txt"")",FileNotFoundError
+"open(""not_a_file_1087.txt"")",FileNotFoundError
+"open(""not_a_file_9766.txt"")",FileNotFoundError
+"open(""not_a_file_7484.txt"")",FileNotFoundError
+"open(""not_a_file_2171.txt"")",FileNotFoundError
+"open(""not_a_file_7646.txt"")",FileNotFoundError
+"open(""not_a_file_1597.txt"")",FileNotFoundError
+"open(""not_a_file_9406.txt"")",FileNotFoundError
+"open(""not_a_file_1081.txt"")",FileNotFoundError
+"open(""not_a_file_3524.txt"")",FileNotFoundError
+"open(""not_a_file_1386.txt"")",FileNotFoundError
+"open(""not_a_file_9034.txt"")",FileNotFoundError
+"open(""not_a_file_3211.txt"")",FileNotFoundError
+"open(""not_a_file_2795.txt"")",FileNotFoundError
+"open(""not_a_file_3592.txt"")",FileNotFoundError
+"open(""not_a_file_9136.txt"")",FileNotFoundError
+"open(""not_a_file_6049.txt"")",FileNotFoundError
+"open(""not_a_file_7120.txt"")",FileNotFoundError
+"open(""not_a_file_3209.txt"")",FileNotFoundError
+"open(""not_a_file_8477.txt"")",FileNotFoundError
+"open(""not_a_file_2630.txt"")",FileNotFoundError
+"open(""not_a_file_3650.txt"")",FileNotFoundError
+"open(""not_a_file_5293.txt"")",FileNotFoundError
+"open(""not_a_file_2054.txt"")",FileNotFoundError
+"open(""not_a_file_4295.txt"")",FileNotFoundError
+"open(""not_a_file_3547.txt"")",FileNotFoundError
+"open(""not_a_file_9210.txt"")",FileNotFoundError
+"open(""not_a_file_6645.txt"")",FileNotFoundError
+"open(""not_a_file_4659.txt"")",FileNotFoundError
+"open(""not_a_file_2958.txt"")",FileNotFoundError
+"open(""not_a_file_7597.txt"")",FileNotFoundError
+"open(""not_a_file_8848.txt"")",FileNotFoundError
+"open(""not_a_file_4750.txt"")",FileNotFoundError
+"open(""not_a_file_4947.txt"")",FileNotFoundError
+"open(""not_a_file_7327.txt"")",FileNotFoundError
+"open(""not_a_file_6131.txt"")",FileNotFoundError
+"open(""not_a_file_4614.txt"")",FileNotFoundError
+"open(""not_a_file_4550.txt"")",FileNotFoundError
+"open(""not_a_file_6116.txt"")",FileNotFoundError
+"open(""not_a_file_8333.txt"")",FileNotFoundError
+"open(""not_a_file_9674.txt"")",FileNotFoundError
+"open(""not_a_file_6786.txt"")",FileNotFoundError
+"open(""not_a_file_1800.txt"")",FileNotFoundError
+"open(""not_a_file_4859.txt"")",FileNotFoundError
+"open(""not_a_file_4531.txt"")",FileNotFoundError
+"open(""not_a_file_4897.txt"")",FileNotFoundError
+"open(""not_a_file_6802.txt"")",FileNotFoundError
+"open(""not_a_file_9525.txt"")",FileNotFoundError
+"open(""not_a_file_7004.txt"")",FileNotFoundError
+"open(""not_a_file_9053.txt"")",FileNotFoundError
+"open(""not_a_file_3408.txt"")",FileNotFoundError
+"open(""not_a_file_6891.txt"")",FileNotFoundError
+"open(""not_a_file_2285.txt"")",FileNotFoundError
+"open(""not_a_file_7366.txt"")",FileNotFoundError
+"open(""not_a_file_8512.txt"")",FileNotFoundError
+"open(""not_a_file_1373.txt"")",FileNotFoundError
+"open(""not_a_file_6232.txt"")",FileNotFoundError
+"open(""not_a_file_7135.txt"")",FileNotFoundError
+"open(""not_a_file_3364.txt"")",FileNotFoundError
+"open(""not_a_file_9201.txt"")",FileNotFoundError
+"open(""not_a_file_2416.txt"")",FileNotFoundError
+"open(""not_a_file_8900.txt"")",FileNotFoundError
+"open(""not_a_file_1262.txt"")",FileNotFoundError
+"open(""not_a_file_8745.txt"")",FileNotFoundError
+"open(""not_a_file_3985.txt"")",FileNotFoundError
+"open(""not_a_file_5871.txt"")",FileNotFoundError
+"open(""not_a_file_7740.txt"")",FileNotFoundError
+"open(""not_a_file_9755.txt"")",FileNotFoundError
+"open(""not_a_file_5965.txt"")",FileNotFoundError
+"open(""not_a_file_8406.txt"")",FileNotFoundError
+"open(""not_a_file_9081.txt"")",FileNotFoundError
+"open(""not_a_file_1642.txt"")",FileNotFoundError
+"open(""not_a_file_2592.txt"")",FileNotFoundError
+"open(""not_a_file_9601.txt"")",FileNotFoundError
+"open(""not_a_file_8966.txt"")",FileNotFoundError
+"open(""not_a_file_5448.txt"")",FileNotFoundError
+"open(""not_a_file_7358.txt"")",FileNotFoundError
+"open(""not_a_file_9892.txt"")",FileNotFoundError
+"open(""not_a_file_3722.txt"")",FileNotFoundError
+"open(""not_a_file_3070.txt"")",FileNotFoundError
+"open(""not_a_file_5793.txt"")",FileNotFoundError
+"open(""not_a_file_2953.txt"")",FileNotFoundError
+"open(""not_a_file_2892.txt"")",FileNotFoundError
+"open(""not_a_file_8182.txt"")",FileNotFoundError
+"open(""not_a_file_5747.txt"")",FileNotFoundError
+"open(""not_a_file_5408.txt"")",FileNotFoundError
+"open(""not_a_file_1362.txt"")",FileNotFoundError
+"open(""not_a_file_3277.txt"")",FileNotFoundError
+"open(""not_a_file_9587.txt"")",FileNotFoundError
+"open(""not_a_file_7236.txt"")",FileNotFoundError
+"open(""not_a_file_6216.txt"")",FileNotFoundError
+"open(""not_a_file_5858.txt"")",FileNotFoundError
+"open(""not_a_file_3049.txt"")",FileNotFoundError
+"open(""not_a_file_9155.txt"")",FileNotFoundError
+"open(""not_a_file_6734.txt"")",FileNotFoundError
+"open(""not_a_file_4288.txt"")",FileNotFoundError
+"open(""not_a_file_8117.txt"")",FileNotFoundError
+"open(""not_a_file_6934.txt"")",FileNotFoundError
+"open(""not_a_file_7952.txt"")",FileNotFoundError
+"open(""not_a_file_7283.txt"")",FileNotFoundError
+"open(""not_a_file_2280.txt"")",FileNotFoundError
+"open(""not_a_file_5493.txt"")",FileNotFoundError
+"open(""not_a_file_9029.txt"")",FileNotFoundError
+"open(""not_a_file_6349.txt"")",FileNotFoundError
+"open(""not_a_file_8977.txt"")",FileNotFoundError
+"open(""not_a_file_9217.txt"")",FileNotFoundError
+"open(""not_a_file_2583.txt"")",FileNotFoundError
+"open(""not_a_file_9535.txt"")",FileNotFoundError
+"open(""not_a_file_5951.txt"")",FileNotFoundError
+"open(""not_a_file_2185.txt"")",FileNotFoundError
+"open(""not_a_file_6033.txt"")",FileNotFoundError
+"open(""not_a_file_8889.txt"")",FileNotFoundError
+"open(""not_a_file_3863.txt"")",FileNotFoundError
+"open(""not_a_file_5263.txt"")",FileNotFoundError
+"open(""not_a_file_9042.txt"")",FileNotFoundError
+"open(""not_a_file_7154.txt"")",FileNotFoundError
+"open(""not_a_file_9942.txt"")",FileNotFoundError
+"open(""not_a_file_5310.txt"")",FileNotFoundError
+"open(""not_a_file_3225.txt"")",FileNotFoundError
+"open(""not_a_file_4388.txt"")",FileNotFoundError
+"open(""not_a_file_3434.txt"")",FileNotFoundError
+"open(""not_a_file_5404.txt"")",FileNotFoundError
+"open(""not_a_file_8612.txt"")",FileNotFoundError
+"open(""not_a_file_5606.txt"")",FileNotFoundError
+"open(""not_a_file_5935.txt"")",FileNotFoundError
+"open(""not_a_file_5017.txt"")",FileNotFoundError
+"open(""not_a_file_9096.txt"")",FileNotFoundError
+"open(""not_a_file_2081.txt"")",FileNotFoundError
+"open(""not_a_file_4369.txt"")",FileNotFoundError
+"open(""not_a_file_4267.txt"")",FileNotFoundError
+"open(""not_a_file_4659.txt"")",FileNotFoundError
+"open(""not_a_file_8538.txt"")",FileNotFoundError
+"open(""not_a_file_5272.txt"")",FileNotFoundError
+"open(""not_a_file_5792.txt"")",FileNotFoundError
+"open(""not_a_file_2951.txt"")",FileNotFoundError
+"open(""not_a_file_7378.txt"")",FileNotFoundError
+"open(""not_a_file_4713.txt"")",FileNotFoundError
+"open(""not_a_file_2274.txt"")",FileNotFoundError
+"open(""not_a_file_3761.txt"")",FileNotFoundError
+"open(""not_a_file_4139.txt"")",FileNotFoundError
+"open(""not_a_file_2290.txt"")",FileNotFoundError
+"open(""not_a_file_5267.txt"")",FileNotFoundError
+"open(""not_a_file_8125.txt"")",FileNotFoundError
+"open(""not_a_file_9980.txt"")",FileNotFoundError
+"open(""not_a_file_4294.txt"")",FileNotFoundError
+"open(""not_a_file_9505.txt"")",FileNotFoundError
+"open(""not_a_file_4290.txt"")",FileNotFoundError
+"open(""not_a_file_2394.txt"")",FileNotFoundError
+"open(""not_a_file_9460.txt"")",FileNotFoundError
+"open(""not_a_file_7041.txt"")",FileNotFoundError
+"open(""not_a_file_2511.txt"")",FileNotFoundError
+"open(""not_a_file_7764.txt"")",FileNotFoundError
+"open(""not_a_file_2760.txt"")",FileNotFoundError
+"open(""not_a_file_5414.txt"")",FileNotFoundError
+"open(""not_a_file_3859.txt"")",FileNotFoundError
+"open(""not_a_file_1179.txt"")",FileNotFoundError
+"open(""not_a_file_7149.txt"")",FileNotFoundError
+"open(""not_a_file_2549.txt"")",FileNotFoundError
+"open(""not_a_file_5383.txt"")",FileNotFoundError
+"open(""not_a_file_7887.txt"")",FileNotFoundError
+"open(""not_a_file_7543.txt"")",FileNotFoundError
+"open(""not_a_file_8076.txt"")",FileNotFoundError
+"open(""not_a_file_5853.txt"")",FileNotFoundError
+"open(""not_a_file_4531.txt"")",FileNotFoundError
+"open(""not_a_file_5204.txt"")",FileNotFoundError
+"open(""not_a_file_3685.txt"")",FileNotFoundError
+"open(""not_a_file_5885.txt"")",FileNotFoundError
+"open(""not_a_file_8977.txt"")",FileNotFoundError
+"open(""not_a_file_1830.txt"")",FileNotFoundError
+"open(""not_a_file_6278.txt"")",FileNotFoundError
+"open(""not_a_file_9625.txt"")",FileNotFoundError
+"open(""not_a_file_4337.txt"")",FileNotFoundError
+"open(""not_a_file_4503.txt"")",FileNotFoundError
+"open(""not_a_file_8071.txt"")",FileNotFoundError
+"open(""not_a_file_8885.txt"")",FileNotFoundError
+"open(""not_a_file_8452.txt"")",FileNotFoundError
+"import os
+os.remove('/root/protected_file_469.txt')",OSError
+"import os
+os.remove('/root/protected_file_359.txt')",OSError
+"import os
+os.remove('/root/protected_file_145.txt')",OSError
+"import os
+os.remove('/root/protected_file_702.txt')",OSError
+"import os
+os.remove('/root/protected_file_527.txt')",OSError
+"import os
+os.remove('/root/protected_file_200.txt')",OSError
+"import os
+os.remove('/root/protected_file_114.txt')",OSError
+"import os
+os.remove('/root/protected_file_881.txt')",OSError
+"import os
+os.remove('/root/protected_file_551.txt')",OSError
+"import os
+os.remove('/root/protected_file_910.txt')",OSError
+"import os
+os.remove('/root/protected_file_901.txt')",OSError
+"import os
+os.remove('/root/protected_file_314.txt')",OSError
+"import os
+os.remove('/root/protected_file_375.txt')",OSError
+"import os
+os.remove('/root/protected_file_446.txt')",OSError
+"import os
+os.remove('/root/protected_file_943.txt')",OSError
+"import os
+os.remove('/root/protected_file_177.txt')",OSError
+"import os
+os.remove('/root/protected_file_982.txt')",OSError
+"import os
+os.remove('/root/protected_file_272.txt')",OSError
+"import os
+os.remove('/root/protected_file_298.txt')",OSError
+"import os
+os.remove('/root/protected_file_958.txt')",OSError
+"import os
+os.remove('/root/protected_file_590.txt')",OSError
+"import os
+os.remove('/root/protected_file_472.txt')",OSError
+"import os
+os.remove('/root/protected_file_465.txt')",OSError
+"import os
+os.remove('/root/protected_file_247.txt')",OSError
+"import os
+os.remove('/root/protected_file_317.txt')",OSError
+"import os
+os.remove('/root/protected_file_692.txt')",OSError
+"import os
+os.remove('/root/protected_file_193.txt')",OSError
+"import os
+os.remove('/root/protected_file_728.txt')",OSError
+"import os
+os.remove('/root/protected_file_921.txt')",OSError
+"import os
+os.remove('/root/protected_file_265.txt')",OSError
+"import os
+os.remove('/root/protected_file_289.txt')",OSError
+"import os
+os.remove('/root/protected_file_481.txt')",OSError
+"import os
+os.remove('/root/protected_file_786.txt')",OSError
+"import os
+os.remove('/root/protected_file_483.txt')",OSError
+"import os
+os.remove('/root/protected_file_788.txt')",OSError
+"import os
+os.remove('/root/protected_file_612.txt')",OSError
+"import os
+os.remove('/root/protected_file_330.txt')",OSError
+"import os
+os.remove('/root/protected_file_205.txt')",OSError
+"import os
+os.remove('/root/protected_file_282.txt')",OSError
+"import os
+os.remove('/root/protected_file_847.txt')",OSError
+"import os
+os.remove('/root/protected_file_109.txt')",OSError
+"import os
+os.remove('/root/protected_file_687.txt')",OSError
+"import os
+os.remove('/root/protected_file_408.txt')",OSError
+"import os
+os.remove('/root/protected_file_491.txt')",OSError
+"import os
+os.remove('/root/protected_file_371.txt')",OSError
+"import os
+os.remove('/root/protected_file_386.txt')",OSError
+"import os
+os.remove('/root/protected_file_122.txt')",OSError
+"import os
+os.remove('/root/protected_file_624.txt')",OSError
+"import os
+os.remove('/root/protected_file_341.txt')",OSError
+"import os
+os.remove('/root/protected_file_703.txt')",OSError
+"import os
+os.remove('/root/protected_file_537.txt')",OSError
+"import os
+os.remove('/root/protected_file_716.txt')",OSError
+"import os
+os.remove('/root/protected_file_556.txt')",OSError
+"import os
+os.remove('/root/protected_file_637.txt')",OSError
+"import os
+os.remove('/root/protected_file_194.txt')",OSError
+"import os
+os.remove('/root/protected_file_729.txt')",OSError
+"import os
+os.remove('/root/protected_file_225.txt')",OSError
+"import os
+os.remove('/root/protected_file_828.txt')",OSError
+"import os
+os.remove('/root/protected_file_553.txt')",OSError
+"import os
+os.remove('/root/protected_file_816.txt')",OSError
+"import os
+os.remove('/root/protected_file_831.txt')",OSError
+"import os
+os.remove('/root/protected_file_857.txt')",OSError
+"import os
+os.remove('/root/protected_file_880.txt')",OSError
+"import os
+os.remove('/root/protected_file_960.txt')",OSError
+"import os
+os.remove('/root/protected_file_300.txt')",OSError
+"import os
+os.remove('/root/protected_file_498.txt')",OSError
+"import os
+os.remove('/root/protected_file_927.txt')",OSError
+"import os
+os.remove('/root/protected_file_889.txt')",OSError
+"import os
+os.remove('/root/protected_file_851.txt')",OSError
+"import os
+os.remove('/root/protected_file_396.txt')",OSError
+"import os
+os.remove('/root/protected_file_726.txt')",OSError
+"import os
+os.remove('/root/protected_file_123.txt')",OSError
+"import os
+os.remove('/root/protected_file_369.txt')",OSError
+"import os
+os.remove('/root/protected_file_818.txt')",OSError
+"import os
+os.remove('/root/protected_file_375.txt')",OSError
+"import os
+os.remove('/root/protected_file_266.txt')",OSError
+"import os
+os.remove('/root/protected_file_672.txt')",OSError
+"import os
+os.remove('/root/protected_file_814.txt')",OSError
+"import os
+os.remove('/root/protected_file_211.txt')",OSError
+"import os
+os.remove('/root/protected_file_623.txt')",OSError
+"import os
+os.remove('/root/protected_file_341.txt')",OSError
+"import os
+os.remove('/root/protected_file_389.txt')",OSError
+"import os
+os.remove('/root/protected_file_112.txt')",OSError
+"import os
+os.remove('/root/protected_file_388.txt')",OSError
+"import os
+os.remove('/root/protected_file_825.txt')",OSError
+"import os
+os.remove('/root/protected_file_654.txt')",OSError
+"import os
+os.remove('/root/protected_file_152.txt')",OSError
+"import os
+os.remove('/root/protected_file_629.txt')",OSError
+"import os
+os.remove('/root/protected_file_771.txt')",OSError
+"import os
+os.remove('/root/protected_file_902.txt')",OSError
+"import os
+os.remove('/root/protected_file_783.txt')",OSError
+"import os
+os.remove('/root/protected_file_736.txt')",OSError
+"import os
+os.remove('/root/protected_file_750.txt')",OSError
+"import os
+os.remove('/root/protected_file_467.txt')",OSError
+"import os
+os.remove('/root/protected_file_585.txt')",OSError
+"import os
+os.remove('/root/protected_file_322.txt')",OSError
+"import os
+os.remove('/root/protected_file_917.txt')",OSError
+"import os
+os.remove('/root/protected_file_203.txt')",OSError
+"import os
+os.remove('/root/protected_file_727.txt')",OSError
+"import os
+os.remove('/root/protected_file_653.txt')",OSError
+"import os
+os.remove('/root/protected_file_259.txt')",OSError
+"import os
+os.remove('/root/protected_file_905.txt')",OSError
+"import os
+os.remove('/root/protected_file_244.txt')",OSError
+"import os
+os.remove('/root/protected_file_792.txt')",OSError
+"import os
+os.remove('/root/protected_file_974.txt')",OSError
+"import os
+os.remove('/root/protected_file_595.txt')",OSError
+"import os
+os.remove('/root/protected_file_364.txt')",OSError
+"import os
+os.remove('/root/protected_file_693.txt')",OSError
+"import os
+os.remove('/root/protected_file_550.txt')",OSError
+"import os
+os.remove('/root/protected_file_167.txt')",OSError
+"import os
+os.remove('/root/protected_file_446.txt')",OSError
+"import os
+os.remove('/root/protected_file_115.txt')",OSError
+"import os
+os.remove('/root/protected_file_269.txt')",OSError
+"import os
+os.remove('/root/protected_file_551.txt')",OSError
+"import os
+os.remove('/root/protected_file_394.txt')",OSError
+"import os
+os.remove('/root/protected_file_846.txt')",OSError
+"import os
+os.remove('/root/protected_file_437.txt')",OSError
+"import os
+os.remove('/root/protected_file_744.txt')",OSError
+"import os
+os.remove('/root/protected_file_185.txt')",OSError
+"import os
+os.remove('/root/protected_file_705.txt')",OSError
+"import os
+os.remove('/root/protected_file_923.txt')",OSError
+"import os
+os.remove('/root/protected_file_320.txt')",OSError
+"import os
+os.remove('/root/protected_file_191.txt')",OSError
+"import os
+os.remove('/root/protected_file_734.txt')",OSError
+"import os
+os.remove('/root/protected_file_934.txt')",OSError
+"import os
+os.remove('/root/protected_file_745.txt')",OSError
+"import os
+os.remove('/root/protected_file_962.txt')",OSError
+"import os
+os.remove('/root/protected_file_612.txt')",OSError
+"import os
+os.remove('/root/protected_file_194.txt')",OSError
+"import os
+os.remove('/root/protected_file_916.txt')",OSError
+"import os
+os.remove('/root/protected_file_758.txt')",OSError
+"import os
+os.remove('/root/protected_file_219.txt')",OSError
+"import os
+os.remove('/root/protected_file_316.txt')",OSError
+"import os
+os.remove('/root/protected_file_586.txt')",OSError
+"import os
+os.remove('/root/protected_file_141.txt')",OSError
+"import os
+os.remove('/root/protected_file_264.txt')",OSError
+"import os
+os.remove('/root/protected_file_434.txt')",OSError
+"import os
+os.remove('/root/protected_file_211.txt')",OSError
+"import os
+os.remove('/root/protected_file_131.txt')",OSError
+"import os
+os.remove('/root/protected_file_538.txt')",OSError
+"import os
+os.remove('/root/protected_file_767.txt')",OSError
+"import os
+os.remove('/root/protected_file_709.txt')",OSError
+"import os
+os.remove('/root/protected_file_281.txt')",OSError
+"import os
+os.remove('/root/protected_file_411.txt')",OSError
+"import os
+os.remove('/root/protected_file_402.txt')",OSError
+"import os
+os.remove('/root/protected_file_946.txt')",OSError
+"import os
+os.remove('/root/protected_file_533.txt')",OSError
+"import os
+os.remove('/root/protected_file_253.txt')",OSError
+"import os
+os.remove('/root/protected_file_618.txt')",OSError
+"import os
+os.remove('/root/protected_file_338.txt')",OSError
+"import os
+os.remove('/root/protected_file_318.txt')",OSError
+"import os
+os.remove('/root/protected_file_278.txt')",OSError
+"import os
+os.remove('/root/protected_file_273.txt')",OSError
+"import os
+os.remove('/root/protected_file_576.txt')",OSError
+"import os
+os.remove('/root/protected_file_101.txt')",OSError
+"import os
+os.remove('/root/protected_file_806.txt')",OSError
+"import os
+os.remove('/root/protected_file_369.txt')",OSError
+"import os
+os.remove('/root/protected_file_428.txt')",OSError
+"import os
+os.remove('/root/protected_file_156.txt')",OSError
+"import os
+os.remove('/root/protected_file_178.txt')",OSError
+"import os
+os.remove('/root/protected_file_690.txt')",OSError
+"import os
+os.remove('/root/protected_file_859.txt')",OSError
+"import os
+os.remove('/root/protected_file_811.txt')",OSError
+"import os
+os.remove('/root/protected_file_418.txt')",OSError
+"import os
+os.remove('/root/protected_file_110.txt')",OSError
+"import os
+os.remove('/root/protected_file_612.txt')",OSError
+"import os
+os.remove('/root/protected_file_110.txt')",OSError
+"import os
+os.remove('/root/protected_file_464.txt')",OSError
+"import os
+os.remove('/root/protected_file_471.txt')",OSError
+"import os
+os.remove('/root/protected_file_196.txt')",OSError
+"import os
+os.remove('/root/protected_file_759.txt')",OSError
+"import os
+os.remove('/root/protected_file_147.txt')",OSError
+"import os
+os.remove('/root/protected_file_245.txt')",OSError
+"import os
+os.remove('/root/protected_file_220.txt')",OSError
+"import os
+os.remove('/root/protected_file_761.txt')",OSError
+"import os
+os.remove('/root/protected_file_955.txt')",OSError
+"import os
+os.remove('/root/protected_file_457.txt')",OSError
+"import os
+os.remove('/root/protected_file_214.txt')",OSError
+"import os
+os.remove('/root/protected_file_757.txt')",OSError
+"import os
+os.remove('/root/protected_file_703.txt')",OSError
+"import os
+os.remove('/root/protected_file_673.txt')",OSError
+"import os
+os.remove('/root/protected_file_694.txt')",OSError
+"import os
+os.remove('/root/protected_file_343.txt')",OSError
+"import os
+os.remove('/root/protected_file_600.txt')",OSError
+"import os
+os.remove('/root/protected_file_760.txt')",OSError
+"import os
+os.remove('/root/protected_file_571.txt')",OSError
+"import os
+os.remove('/root/protected_file_357.txt')",OSError
+"import os
+os.remove('/root/protected_file_201.txt')",OSError
+"import os
+os.remove('/root/protected_file_462.txt')",OSError
+"import os
+os.remove('/root/protected_file_710.txt')",OSError
+"import os
+os.remove('/root/protected_file_170.txt')",OSError
+"import os
+os.remove('/root/protected_file_858.txt')",OSError
+"import os
+os.remove('/root/protected_file_914.txt')",OSError
+"import os
+os.remove('/root/protected_file_838.txt')",OSError
+"import os
+os.remove('/root/protected_file_856.txt')",OSError
+"import os
+os.remove('/root/protected_file_676.txt')",OSError
+"import os
+os.remove('/root/protected_file_312.txt')",OSError
+"import os
+os.remove('/root/protected_file_101.txt')",OSError
+"import os
+os.remove('/root/protected_file_673.txt')",OSError
+"import os
+os.remove('/root/protected_file_276.txt')",OSError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"raise RuntimeError(""unexpected error"")",RuntimeError
+"b = {'foo': 1}
+x = x['bar']",KeyError
+"a = {'foo': 1}
+x = bar['bar']",KeyError
+"b = {'foo': 1}
+x = var['bar']",KeyError
+"dct = {'foo': 1}
+x = lst['bar']",KeyError
+"bar = {'foo': 1}
+x = a['bar']",KeyError
+"mylist = {'foo': 1}
+x = foo['bar']",KeyError
+"b = {'foo': 1}
+x = lst['bar']",KeyError
+"a = {'foo': 1}
+x = foo['bar']",KeyError
+"var = {'foo': 1}
+x = data['bar']",KeyError
+"lst = {'foo': 1}
+x = mylist['bar']",KeyError
+"y = {'foo': 1}
+x = dct['bar']",KeyError
+"dct = {'foo': 1}
+x = dct['bar']",KeyError
+"mylist = {'foo': 1}
+x = dct['bar']",KeyError
+"b = {'foo': 1}
+x = data['bar']",KeyError
+"data = {'foo': 1}
+x = lst['bar']",KeyError
+"y = {'foo': 1}
+x = x['bar']",KeyError
+"y = {'foo': 1}
+x = bar['bar']",KeyError
+"x = {'foo': 1}
+x = y['bar']",KeyError
+"data = {'foo': 1}
+x = foo['bar']",KeyError
+"y = {'foo': 1}
+x = lst['bar']",KeyError
+"foo = {'foo': 1}
+x = b['bar']",KeyError
+"a = {'foo': 1}
+x = foo['bar']",KeyError
+"a = {'foo': 1}
+x = b['bar']",KeyError
+"foo = {'foo': 1}
+x = var['bar']",KeyError
+"a = {'foo': 1}
+x = dct['bar']",KeyError
+"b = {'foo': 1}
+x = bar['bar']",KeyError
+"dct = {'foo': 1}
+x = a['bar']",KeyError
+"mylist = {'foo': 1}
+x = lst['bar']",KeyError
+"mylist = {'foo': 1}
+x = dct['bar']",KeyError
+"a = {'foo': 1}
+x = var['bar']",KeyError
+"mylist = {'foo': 1}
+x = lst['bar']",KeyError
+"x = {'foo': 1}
+x = data['bar']",KeyError
+"foo = {'foo': 1}
+x = b['bar']",KeyError
+"a = {'foo': 1}
+x = x['bar']",KeyError
+"var = {'foo': 1}
+x = dct['bar']",KeyError
+"bar = {'foo': 1}
+x = lst['bar']",KeyError
+"lst = {'foo': 1}
+x = y['bar']",KeyError
+"x = {'foo': 1}
+x = var['bar']",KeyError
+"mylist = {'foo': 1}
+x = lst['bar']",KeyError
+"data = {'foo': 1}
+x = lst['bar']",KeyError
+"b = {'foo': 1}
+x = bar['bar']",KeyError
+"bar = {'foo': 1}
+x = x['bar']",KeyError
+"b = {'foo': 1}
+x = x['bar']",KeyError
+"b = {'foo': 1}
+x = var['bar']",KeyError
+"data = {'foo': 1}
+x = mylist['bar']",KeyError
+"lst = {'foo': 1}
+x = mylist['bar']",KeyError
+"foo = {'foo': 1}
+x = var['bar']",KeyError
+"foo = {'foo': 1}
+x = b['bar']",KeyError
+"dct = {'foo': 1}
+x = bar['bar']",KeyError
+"b = {'foo': 1}
+x = dct['bar']",KeyError
+"y = {'foo': 1}
+x = y['bar']",KeyError
+"x = {'foo': 1}
+x = data['bar']",KeyError
+"bar = {'foo': 1}
+x = b['bar']",KeyError
+"dct = {'foo': 1}
+x = x['bar']",KeyError
+"lst = {'foo': 1}
+x = y['bar']",KeyError
+"b = {'foo': 1}
+x = lst['bar']",KeyError
+"y = {'foo': 1}
+x = b['bar']",KeyError
+"mylist = {'foo': 1}
+x = y['bar']",KeyError
+"mylist = {'foo': 1}
+x = a['bar']",KeyError
+"dct = {'foo': 1}
+x = b['bar']",KeyError
+"data = {'foo': 1}
+x = x['bar']",KeyError
+"mylist = {'foo': 1}
+x = lst['bar']",KeyError
+"a = {'foo': 1}
+x = b['bar']",KeyError
+"foo = {'foo': 1}
+x = y['bar']",KeyError
+"mylist = {'foo': 1}
+x = a['bar']",KeyError
+"mylist = {'foo': 1}
+x = b['bar']",KeyError
+"bar = {'foo': 1}
+x = x['bar']",KeyError
+"lst = {'foo': 1}
+x = lst['bar']",KeyError
+"dct = {'foo': 1}
+x = bar['bar']",KeyError
+"y = {'foo': 1}
+x = foo['bar']",KeyError
+"foo = {'foo': 1}
+x = y['bar']",KeyError
+"foo = {'foo': 1}
+x = data['bar']",KeyError
+"foo = {'foo': 1}
+x = b['bar']",KeyError
+"a = {'foo': 1}
+x = mylist['bar']",KeyError
+"x = {'foo': 1}
+x = x['bar']",KeyError
+"bar = {'foo': 1}
+x = foo['bar']",KeyError
+"bar = {'foo': 1}
+x = lst['bar']",KeyError
+"bar = {'foo': 1}
+x = data['bar']",KeyError
+"foo = {'foo': 1}
+x = dct['bar']",KeyError
+"b = {'foo': 1}
+x = x['bar']",KeyError
+"var = {'foo': 1}
+x = lst['bar']",KeyError
+"a = {'foo': 1}
+x = lst['bar']",KeyError
+"var = {'foo': 1}
+x = x['bar']",KeyError
+"a = {'foo': 1}
+x = foo['bar']",KeyError
+"dct = {'foo': 1}
+x = dct['bar']",KeyError
+"x = {'foo': 1}
+x = b['bar']",KeyError
+"b = {'foo': 1}
+x = var['bar']",KeyError
+"data = {'foo': 1}
+x = foo['bar']",KeyError
+"bar = {'foo': 1}
+x = x['bar']",KeyError
+"b = {'foo': 1}
+x = var['bar']",KeyError
+"mylist = {'foo': 1}
+x = mylist['bar']",KeyError
+"var = {'foo': 1}
+x = data['bar']",KeyError
+"dct = {'foo': 1}
+x = lst['bar']",KeyError
+"data = {'foo': 1}
+x = lst['bar']",KeyError
+"var = {'foo': 1}
+x = b['bar']",KeyError
+"data = {'foo': 1}
+x = a['bar']",KeyError
+"bar = {'foo': 1}
+x = a['bar']",KeyError
+"foo = {'foo': 1}
+x = y['bar']",KeyError
+"a = {'foo': 1}
+x = data['bar']",KeyError
+"x = {'foo': 1}
+x = data['bar']",KeyError
+"a = {'foo': 1}
+x = b['bar']",KeyError
+"mylist = {'foo': 1}
+x = lst['bar']",KeyError
+"dct = {'foo': 1}
+x = data['bar']",KeyError
+"bar = {'foo': 1}
+x = y['bar']",KeyError
+"x = {'foo': 1}
+x = mylist['bar']",KeyError
+"dct = {'foo': 1}
+x = foo['bar']",KeyError
+"x = {'foo': 1}
+x = y['bar']",KeyError
+"dct = {'foo': 1}
+x = data['bar']",KeyError
+"data = {'foo': 1}
+x = y['bar']",KeyError
+"mylist = {'foo': 1}
+x = mylist['bar']",KeyError
+"a = {'foo': 1}
+x = mylist['bar']",KeyError
+"bar = {'foo': 1}
+x = var['bar']",KeyError
+"b = {'foo': 1}
+x = y['bar']",KeyError
+"var = {'foo': 1}
+x = y['bar']",KeyError
+"lst = {'foo': 1}
+x = var['bar']",KeyError
+"lst = {'foo': 1}
+x = y['bar']",KeyError
+"b = {'foo': 1}
+x = y['bar']",KeyError
+"data = {'foo': 1}
+x = y['bar']",KeyError
+"foo = {'foo': 1}
+x = data['bar']",KeyError
+"a = {'foo': 1}
+x = x['bar']",KeyError
+"dct = {'foo': 1}
+x = a['bar']",KeyError
+"lst = {'foo': 1}
+x = b['bar']",KeyError
+"b = {'foo': 1}
+x = x['bar']",KeyError
+"var = {'foo': 1}
+x = foo['bar']",KeyError
+"x = {'foo': 1}
+x = var['bar']",KeyError
+"data = {'foo': 1}
+x = b['bar']",KeyError
+"data = {'foo': 1}
+x = bar['bar']",KeyError
+"a = {'foo': 1}
+x = x['bar']",KeyError
+"data = {'foo': 1}
+x = data['bar']",KeyError
+"bar = {'foo': 1}
+x = foo['bar']",KeyError
+"lst = {'foo': 1}
+x = lst['bar']",KeyError
+"mylist = {'foo': 1}
+x = data['bar']",KeyError
+"bar = {'foo': 1}
+x = lst['bar']",KeyError
+"y = {'foo': 1}
+x = data['bar']",KeyError
+"mylist = {'foo': 1}
+x = a['bar']",KeyError
+"x = {'foo': 1}
+x = lst['bar']",KeyError
+"foo = {'foo': 1}
+x = x['bar']",KeyError
+"a = {'foo': 1}
+x = y['bar']",KeyError
+"y = {'foo': 1}
+x = a['bar']",KeyError
+"mylist = {'foo': 1}
+x = y['bar']",KeyError
+"dct = {'foo': 1}
+x = a['bar']",KeyError
+"x = {'foo': 1}
+x = mylist['bar']",KeyError
+"var = {'foo': 1}
+x = b['bar']",KeyError
+"bar = {'foo': 1}
+x = data['bar']",KeyError
+"mylist = {'foo': 1}
+x = var['bar']",KeyError
+"lst = {'foo': 1}
+x = lst['bar']",KeyError
+"bar = {'foo': 1}
+x = y['bar']",KeyError
+"mylist = {'foo': 1}
+x = data['bar']",KeyError
+"foo = {'foo': 1}
+x = foo['bar']",KeyError
+"dct = {'foo': 1}
+x = x['bar']",KeyError
+"dct = {'foo': 1}
+x = x['bar']",KeyError
+"x = {'foo': 1}
+x = dct['bar']",KeyError
+"mylist = {'foo': 1}
+x = mylist['bar']",KeyError
+"x = {'foo': 1}
+x = bar['bar']",KeyError
+"a = {'foo': 1}
+x = dct['bar']",KeyError
+"foo = {'foo': 1}
+x = data['bar']",KeyError
+"mylist = {'foo': 1}
+x = foo['bar']",KeyError
+"a = {'foo': 1}
+x = a['bar']",KeyError
+"dct = {'foo': 1}
+x = dct['bar']",KeyError
+"foo = {'foo': 1}
+x = bar['bar']",KeyError
+"a = {'foo': 1}
+x = var['bar']",KeyError
+"b = {'foo': 1}
+x = bar['bar']",KeyError
+"mylist = {'foo': 1}
+x = b['bar']",KeyError
+"dct = {'foo': 1}
+x = bar['bar']",KeyError
+"y = {'foo': 1}
+x = var['bar']",KeyError
+"data = {'foo': 1}
+x = b['bar']",KeyError
+"dct = {'foo': 1}
+x = foo['bar']",KeyError
+"x = {'foo': 1}
+x = foo['bar']",KeyError
+"mylist = {'foo': 1}
+x = data['bar']",KeyError
+"dct = {'foo': 1}
+x = data['bar']",KeyError
+"foo = {'foo': 1}
+x = b['bar']",KeyError
+"foo = {'foo': 1}
+x = b['bar']",KeyError
+"dct = {'foo': 1}
+x = x['bar']",KeyError
+"data = {'foo': 1}
+x = bar['bar']",KeyError
+"lst = {'foo': 1}
+x = var['bar']",KeyError
+"bar = {'foo': 1}
+x = x['bar']",KeyError
+"foo = {'foo': 1}
+x = mylist['bar']",KeyError
+"b = {'foo': 1}
+x = x['bar']",KeyError
+"foo = {'foo': 1}
+x = y['bar']",KeyError
+"y = {'foo': 1}
+x = b['bar']",KeyError
+"bar = {'foo': 1}
+x = lst['bar']",KeyError
+"foo = {'foo': 1}
+x = lst['bar']",KeyError
+"x = {'foo': 1}
+x = y['bar']",KeyError
+"foo = {'foo': 1}
+x = lst['bar']",KeyError
+"data = {'foo': 1}
+x = dct['bar']",KeyError
+"b = {'foo': 1}
+x = x['bar']",KeyError
+"dct = {'foo': 1}
+x = y['bar']",KeyError
+"dct = {'foo': 1}
+x = var['bar']",KeyError
+"x = {'foo': 1}
+x = lst['bar']",KeyError
+"y = {'foo': 1}
+x = dct['bar']",KeyError
+"b = {'foo': 1}
+x = var['bar']",KeyError
+"mylist = {'foo': 1}
+x = data['bar']",KeyError
+"foo = {'foo': 1}
+x = lst['bar']",KeyError
+"b = {'foo': 1}
+x = x['bar']",KeyError
+"b = {'foo': 1}
+x = var['bar']",KeyError
+"dct = {'foo': 1}
+x = bar['bar']",KeyError
+"lst = {'foo': 1}
+x = mylist['bar']",KeyError
+"bar = {'foo': 1}
+x = lst['bar']",KeyError
+"bar = {'foo': 1}
+x = mylist['bar']",KeyError
+"a = {'foo': 1}
+x = foo['bar']",KeyError
+"int(""error"")",ValueError
+"int(""text"")",ValueError
+"int(""text"")",ValueError
+"int(""python"")",ValueError
+"int(""text"")",ValueError
+"int(""text"")",ValueError
+"int(""hello"")",ValueError
+"int(""hello"")",ValueError
+"int(""error"")",ValueError
+"int(""error"")",ValueError
+"int(""hello"")",ValueError
+"int(""python"")",ValueError
+"int(""world"")",ValueError
+"int(""text"")",ValueError
+"int(""hello"")",ValueError
+"int(""python"")",ValueError
+"int(""error"")",ValueError
+"int(""world"")",ValueError
+"int(""world"")",ValueError
+"int(""text"")",ValueError
+"int(""world"")",ValueError
+"int(""error"")",ValueError
+"int(""world"")",ValueError
+"int(""text"")",ValueError
+"int(""hello"")",ValueError
+"int(""python"")",ValueError
+"int(""world"")",ValueError
+"int(""hello"")",ValueError
+"int(""python"")",ValueError
+"int(""text"")",ValueError
+"int(""text"")",ValueError
+"int(""python"")",ValueError
+"int(""text"")",ValueError
+"int(""text"")",ValueError
+"int(""hello"")",ValueError
+"int(""text"")",ValueError
+"int(""world"")",ValueError
+"int(""hello"")",ValueError
+"int(""text"")",ValueError
+"int(""error"")",ValueError
+"int(""text"")",ValueError
+"int(""error"")",ValueError
+"int(""python"")",ValueError
+"int(""python"")",ValueError
+"int(""text"")",ValueError
+"int(""text"")",ValueError
+"int(""world"")",ValueError
+"int(""world"")",ValueError
+"int(""error"")",ValueError
+"int(""error"")",ValueError
+"int(""python"")",ValueError
+"int(""python"")",ValueError
+"int(""hello"")",ValueError
+"int(""error"")",ValueError
+"int(""text"")",ValueError
+"int(""python"")",ValueError
+"int(""hello"")",ValueError
+"int(""python"")",ValueError
+"int(""world"")",ValueError
+"int(""hello"")",ValueError
+"int(""python"")",ValueError
+"int(""world"")",ValueError
+"int(""error"")",ValueError
+"int(""world"")",ValueError
+"int(""hello"")",ValueError
+"int(""error"")",ValueError
+"int(""world"")",ValueError
+"int(""world"")",ValueError
+"int(""world"")",ValueError
+"int(""hello"")",ValueError
+"int(""hello"")",ValueError
+"int(""hello"")",ValueError
+"int(""error"")",ValueError
+"int(""world"")",ValueError
+"int(""hello"")",ValueError
+"int(""text"")",ValueError
+"int(""world"")",ValueError
+"int(""world"")",ValueError
+"int(""hello"")",ValueError
+"int(""hello"")",ValueError
+"int(""world"")",ValueError
+"int(""error"")",ValueError
+"int(""world"")",ValueError
+"int(""text"")",ValueError
+"int(""world"")",ValueError
+"int(""python"")",ValueError
+"int(""world"")",ValueError
+"int(""python"")",ValueError
+"int(""error"")",ValueError
+"int(""hello"")",ValueError
+"int(""hello"")",ValueError
+"int(""text"")",ValueError
+"int(""hello"")",ValueError
+"int(""text"")",ValueError
+"int(""hello"")",ValueError
+"int(""text"")",ValueError
+"int(""error"")",ValueError
+"int(""error"")",ValueError
+"int(""text"")",ValueError
+"int(""hello"")",ValueError
+"int(""python"")",ValueError
+"int(""error"")",ValueError
+"int(""hello"")",ValueError
+"int(""hello"")",ValueError
+"int(""world"")",ValueError
+"int(""python"")",ValueError
+"int(""text"")",ValueError
+"int(""python"")",ValueError
+"int(""text"")",ValueError
+"int(""error"")",ValueError
+"int(""python"")",ValueError
+"int(""error"")",ValueError
+"int(""python"")",ValueError
+"int(""error"")",ValueError
+"int(""world"")",ValueError
+"int(""hello"")",ValueError
+"int(""error"")",ValueError
+"int(""text"")",ValueError
+"int(""text"")",ValueError
+"int(""python"")",ValueError
+"int(""python"")",ValueError
+"int(""python"")",ValueError
+"int(""world"")",ValueError
+"int(""world"")",ValueError
+"int(""world"")",ValueError
+"int(""python"")",ValueError
+"int(""text"")",ValueError
+"int(""hello"")",ValueError
+"int(""hello"")",ValueError
+"int(""python"")",ValueError
+"int(""text"")",ValueError
+"int(""python"")",ValueError
+"int(""error"")",ValueError
+"int(""error"")",ValueError
+"int(""world"")",ValueError
+"int(""text"")",ValueError
+"int(""hello"")",ValueError
+"int(""hello"")",ValueError
+"int(""world"")",ValueError
+"int(""world"")",ValueError
+"int(""text"")",ValueError
+"int(""hello"")",ValueError
+"int(""text"")",ValueError
+"int(""error"")",ValueError
+"int(""error"")",ValueError
+"int(""world"")",ValueError
+"int(""hello"")",ValueError
+"int(""error"")",ValueError
+"int(""text"")",ValueError
+"int(""world"")",ValueError
+"int(""python"")",ValueError
+"int(""error"")",ValueError
+"int(""python"")",ValueError
+"int(""python"")",ValueError
+"int(""hello"")",ValueError
+"int(""world"")",ValueError
+"int(""hello"")",ValueError
+"int(""python"")",ValueError
+"int(""error"")",ValueError
+"int(""error"")",ValueError
+"int(""python"")",ValueError
+"int(""hello"")",ValueError
+"int(""error"")",ValueError
+"int(""world"")",ValueError
+"int(""python"")",ValueError
+"int(""error"")",ValueError
+"int(""hello"")",ValueError
+"int(""python"")",ValueError
+"int(""python"")",ValueError
+"int(""text"")",ValueError
+"int(""python"")",ValueError
+"int(""text"")",ValueError
+"int(""python"")",ValueError
+"int(""world"")",ValueError
+"int(""text"")",ValueError
+"int(""hello"")",ValueError
+"int(""hello"")",ValueError
+"int(""python"")",ValueError
+"int(""error"")",ValueError
+"int(""hello"")",ValueError
+"int(""python"")",ValueError
+"int(""text"")",ValueError
+"int(""python"")",ValueError
+"int(""error"")",ValueError
+"int(""text"")",ValueError
+"int(""python"")",ValueError
+"int(""world"")",ValueError
+"int(""world"")",ValueError
+"int(""world"")",ValueError
+"int(""error"")",ValueError
+"int(""text"")",ValueError
+"int(""hello"")",ValueError
+"int(""python"")",ValueError
+"int(""error"")",ValueError
+"int(""python"")",ValueError
+"int(""python"")",ValueError
+"int(""text"")",ValueError
+"int(""python"")",ValueError
+"int(""hello"")",ValueError
+"int(""world"")",ValueError
+"dct = None
+x.append(1)",AttributeError
+"""hello"".not_exist()",AttributeError
+"foo = None
+mylist.append(1)",AttributeError
+"""hello"".not_exist()",AttributeError
+"y = None
+bar.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"""hello"".not_exist()",AttributeError
+"data = None
+data.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"""error"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"""error"".not_exist()",AttributeError
+"""error"".not_exist()",AttributeError
+"""world"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"""python"".not_exist()",AttributeError
+"""python"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"dct = None
+foo.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"dct = None
+foo.append(1)",AttributeError
+"""error"".not_exist()",AttributeError
+"foo = None
+lst.append(1)",AttributeError
+"lst = None
+var.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"dct = None
+x.append(1)",AttributeError
+"""world"".not_exist()",AttributeError
+"y = None
+x.append(1)",AttributeError
+"y = None
+foo.append(1)",AttributeError
+"""hello"".not_exist()",AttributeError
+"""world"".not_exist()",AttributeError
+"""hello"".not_exist()",AttributeError
+"y = None
+lst.append(1)",AttributeError
+"mylist = None
+x.append(1)",AttributeError
+"""hello"".not_exist()",AttributeError
+"a = None
+a.append(1)",AttributeError
+"y = None
+y.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"dct = None
+x.append(1)",AttributeError
+"data = None
+foo.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"lst = None
+b.append(1)",AttributeError
+"""hello"".not_exist()",AttributeError
+"""error"".not_exist()",AttributeError
+"""world"".not_exist()",AttributeError
+"dct = None
+lst.append(1)",AttributeError
+"bar = None
+foo.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"""hello"".not_exist()",AttributeError
+"""python"".not_exist()",AttributeError
+"""python"".not_exist()",AttributeError
+"a = None
+data.append(1)",AttributeError
+"""error"".not_exist()",AttributeError
+"foo = None
+data.append(1)",AttributeError
+"a = None
+lst.append(1)",AttributeError
+"""error"".not_exist()",AttributeError
+"a = None
+mylist.append(1)",AttributeError
+"bar = None
+b.append(1)",AttributeError
+"mylist = None
+x.append(1)",AttributeError
+"""text"".not_exist()",AttributeError
+"""error"".not_exist()",AttributeError
+"y = None
+b.append(1)",AttributeError
+"foo = None
+mylist.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"data = None
+mylist.append(1)",AttributeError
+"b = None
+dct.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"bar = None
+data.append(1)",AttributeError
+"""error"".not_exist()",AttributeError
+"foo = None
+var.append(1)",AttributeError
+"""error"".not_exist()",AttributeError
+"b = None
+x.append(1)",AttributeError
+"dct = None
+dct.append(1)",AttributeError
+"""error"".not_exist()",AttributeError
+"""world"".not_exist()",AttributeError
+"""world"".not_exist()",AttributeError
+"y = None
+bar.append(1)",AttributeError
+"var = None
+a.append(1)",AttributeError
+"""hello"".not_exist()",AttributeError
+"mylist = None
+x.append(1)",AttributeError
+"data = None
+bar.append(1)",AttributeError
+"bar = None
+x.append(1)",AttributeError
+"a = None
+x.append(1)",AttributeError
+"var = None
+y.append(1)",AttributeError
+"""text"".not_exist()",AttributeError
+"""python"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"data = None
+a.append(1)",AttributeError
+"""text"".not_exist()",AttributeError
+"""python"".not_exist()",AttributeError
+"""hello"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"""error"".not_exist()",AttributeError
+"""python"".not_exist()",AttributeError
+"foo = None
+b.append(1)",AttributeError
+"bar = None
+var.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"""hello"".not_exist()",AttributeError
+"foo = None
+dct.append(1)",AttributeError
+"var = None
+lst.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"foo = None
+x.append(1)",AttributeError
+"a = None
+mylist.append(1)",AttributeError
+"""world"".not_exist()",AttributeError
+"dct = None
+bar.append(1)",AttributeError
+"x = None
+var.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"y = None
+mylist.append(1)",AttributeError
+"""hello"".not_exist()",AttributeError
+"a = None
+dct.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"data = None
+bar.append(1)",AttributeError
+"y = None
+mylist.append(1)",AttributeError
+"""error"".not_exist()",AttributeError
+"x = None
+var.append(1)",AttributeError
+"bar = None
+b.append(1)",AttributeError
+"""text"".not_exist()",AttributeError
+"dct = None
+b.append(1)",AttributeError
+"a = None
+a.append(1)",AttributeError
+"y = None
+b.append(1)",AttributeError
+"bar = None
+lst.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"x = None
+lst.append(1)",AttributeError
+"""hello"".not_exist()",AttributeError
+"mylist = None
+a.append(1)",AttributeError
+"a = None
+a.append(1)",AttributeError
+"""text"".not_exist()",AttributeError
+"var = None
+mylist.append(1)",AttributeError
+"a = None
+foo.append(1)",AttributeError
+"""text"".not_exist()",AttributeError
+"y = None
+y.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"b = None
+b.append(1)",AttributeError
+"""hello"".not_exist()",AttributeError
+"lst = None
+bar.append(1)",AttributeError
+"""text"".not_exist()",AttributeError
+"""hello"".not_exist()",AttributeError
+"bar = None
+var.append(1)",AttributeError
+"var = None
+bar.append(1)",AttributeError
+"""text"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"mylist = None
+dct.append(1)",AttributeError
+"var = None
+dct.append(1)",AttributeError
+"foo = None
+y.append(1)",AttributeError
+"y = None
+data.append(1)",AttributeError
+"data = None
+bar.append(1)",AttributeError
+"b = None
+foo.append(1)",AttributeError
+"""world"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"bar = None
+y.append(1)",AttributeError
+"x = None
+foo.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"var = None
+foo.append(1)",AttributeError
+"mylist = None
+bar.append(1)",AttributeError
+"lst = None
+y.append(1)",AttributeError
+"var = None
+lst.append(1)",AttributeError
+"""world"".not_exist()",AttributeError
+"foo = None
+x.append(1)",AttributeError
+"a = None
+data.append(1)",AttributeError
+"""error"".not_exist()",AttributeError
+"""python"".not_exist()",AttributeError
+"""python"".not_exist()",AttributeError
+"""python"".not_exist()",AttributeError
+"""world"".not_exist()",AttributeError
+"x = None
+foo.append(1)",AttributeError
+"""world"".not_exist()",AttributeError
+"data = None
+var.append(1)",AttributeError
+"lst = None
+lst.append(1)",AttributeError
+"""hello"".not_exist()",AttributeError
+"""error"".not_exist()",AttributeError
+"bar = None
+lst.append(1)",AttributeError
+"""world"".not_exist()",AttributeError
+"""hello"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"mylist = None
+mylist.append(1)",AttributeError
+"""text"".not_exist()",AttributeError
+"""hello"".not_exist()",AttributeError
+"""python"".not_exist()",AttributeError
+"foo = None
+b.append(1)",AttributeError
+"""world"".not_exist()",AttributeError
+"""world"".not_exist()",AttributeError
+"""hello"".not_exist()",AttributeError
+"""text"".not_exist()",AttributeError
+"""python"".not_exist()",AttributeError
+"""python"".not_exist()",AttributeError
+"var = None
+foo.append(1)",AttributeError
+"var = None
+mylist.append(1)",AttributeError
+"bar = None
+y.append(1)",AttributeError
+"""python"".not_exist()",AttributeError
+"a = None
+var.append(1)",AttributeError
+"""error"".not_exist()",AttributeError
+"""hello"".not_exist()",AttributeError
+"""error"".not_exist()",AttributeError
+"var = [1, 2, 3]
+item = data[-1]",IndexError
+"foo = [1, 2, 3]
+item = mylist[10]",IndexError
+"data = [1, 2, 3]
+item = data[100]",IndexError
+"var = [1, 2, 3]
+item = b[10]",IndexError
+"x = [1, 2, 3]
+item = dct[3]",IndexError
+"bar = [1, 2, 3]
+item = a[10]",IndexError
+"dct = [1, 2, 3]
+item = mylist[3]",IndexError
+"a = [1, 2, 3]
+item = b[3]",IndexError
+"x = [1, 2, 3]
+item = foo[3]",IndexError
+"a = [1, 2, 3]
+item = var[10]",IndexError
+"mylist = [1, 2, 3]
+item = bar[3]",IndexError
+"foo = [1, 2, 3]
+item = var[3]",IndexError
+"lst = [1, 2, 3]
+item = data[3]",IndexError
+"bar = [1, 2, 3]
+item = var[-1]",IndexError
+"b = [1, 2, 3]
+item = foo[100]",IndexError
+"y = [1, 2, 3]
+item = y[10]",IndexError
+"dct = [1, 2, 3]
+item = y[3]",IndexError
+"dct = [1, 2, 3]
+item = mylist[10]",IndexError
+"data = [1, 2, 3]
+item = b[3]",IndexError
+"foo = [1, 2, 3]
+item = b[10]",IndexError
+"bar = [1, 2, 3]
+item = foo[-1]",IndexError
+"var = [1, 2, 3]
+item = mylist[10]",IndexError
+"data = [1, 2, 3]
+item = mylist[100]",IndexError
+"data = [1, 2, 3]
+item = mylist[100]",IndexError
+"dct = [1, 2, 3]
+item = mylist[-1]",IndexError
+"dct = [1, 2, 3]
+item = y[3]",IndexError
+"data = [1, 2, 3]
+item = var[10]",IndexError
+"y = [1, 2, 3]
+item = var[100]",IndexError
+"data = [1, 2, 3]
+item = var[10]",IndexError
+"b = [1, 2, 3]
+item = a[3]",IndexError
+"bar = [1, 2, 3]
+item = a[3]",IndexError
+"bar = [1, 2, 3]
+item = y[100]",IndexError
+"var = [1, 2, 3]
+item = dct[-1]",IndexError
+"lst = [1, 2, 3]
+item = dct[100]",IndexError
+"foo = [1, 2, 3]
+item = a[3]",IndexError
+"var = [1, 2, 3]
+item = dct[10]",IndexError
+"b = [1, 2, 3]
+item = y[3]",IndexError
+"y = [1, 2, 3]
+item = foo[3]",IndexError
+"mylist = [1, 2, 3]
+item = lst[3]",IndexError
+"data = [1, 2, 3]
+item = foo[100]",IndexError
+"bar = [1, 2, 3]
+item = y[-1]",IndexError
+"lst = [1, 2, 3]
+item = y[10]",IndexError
+"lst = [1, 2, 3]
+item = a[100]",IndexError
+"dct = [1, 2, 3]
+item = bar[100]",IndexError
+"y = [1, 2, 3]
+item = dct[100]",IndexError
+"data = [1, 2, 3]
+item = bar[-1]",IndexError
+"b = [1, 2, 3]
+item = b[100]",IndexError
+"data = [1, 2, 3]
+item = var[10]",IndexError
+"b = [1, 2, 3]
+item = x[-1]",IndexError
+"x = [1, 2, 3]
+item = x[10]",IndexError
+"dct = [1, 2, 3]
+item = dct[10]",IndexError
+"data = [1, 2, 3]
+item = a[-1]",IndexError
+"y = [1, 2, 3]
+item = a[100]",IndexError
+"dct = [1, 2, 3]
+item = a[-1]",IndexError
+"mylist = [1, 2, 3]
+item = mylist[100]",IndexError
+"foo = [1, 2, 3]
+item = data[100]",IndexError
+"lst = [1, 2, 3]
+item = lst[-1]",IndexError
+"data = [1, 2, 3]
+item = bar[10]",IndexError
+"var = [1, 2, 3]
+item = lst[-1]",IndexError
+"dct = [1, 2, 3]
+item = dct[10]",IndexError
+"mylist = [1, 2, 3]
+item = data[10]",IndexError
+"y = [1, 2, 3]
+item = foo[100]",IndexError
+"lst = [1, 2, 3]
+item = dct[3]",IndexError
+"data = [1, 2, 3]
+item = y[3]",IndexError
+"dct = [1, 2, 3]
+item = a[10]",IndexError
+"y = [1, 2, 3]
+item = b[10]",IndexError
+"data = [1, 2, 3]
+item = bar[-1]",IndexError
+"lst = [1, 2, 3]
+item = b[3]",IndexError
+"bar = [1, 2, 3]
+item = mylist[3]",IndexError
+"y = [1, 2, 3]
+item = mylist[100]",IndexError
+"foo = [1, 2, 3]
+item = mylist[10]",IndexError
+"x = [1, 2, 3]
+item = a[3]",IndexError
+"bar = [1, 2, 3]
+item = dct[3]",IndexError
+"x = [1, 2, 3]
+item = lst[-1]",IndexError
+"var = [1, 2, 3]
+item = var[3]",IndexError
+"a = [1, 2, 3]
+item = x[-1]",IndexError
+"a = [1, 2, 3]
+item = a[3]",IndexError
+"y = [1, 2, 3]
+item = mylist[10]",IndexError
+"x = [1, 2, 3]
+item = x[100]",IndexError
+"data = [1, 2, 3]
+item = a[-1]",IndexError
+"lst = [1, 2, 3]
+item = a[-1]",IndexError
+"foo = [1, 2, 3]
+item = a[3]",IndexError
+"data = [1, 2, 3]
+item = b[-1]",IndexError
+"b = [1, 2, 3]
+item = lst[100]",IndexError
+"mylist = [1, 2, 3]
+item = x[100]",IndexError
+"a = [1, 2, 3]
+item = b[-1]",IndexError
+"var = [1, 2, 3]
+item = lst[10]",IndexError
+"bar = [1, 2, 3]
+item = lst[3]",IndexError
+"var = [1, 2, 3]
+item = foo[10]",IndexError
+"dct = [1, 2, 3]
+item = x[-1]",IndexError
+"x = [1, 2, 3]
+item = x[10]",IndexError
+"dct = [1, 2, 3]
+item = x[10]",IndexError
+"bar = [1, 2, 3]
+item = x[3]",IndexError
+"b = [1, 2, 3]
+item = mylist[-1]",IndexError
+"foo = [1, 2, 3]
+item = lst[-1]",IndexError
+"var = [1, 2, 3]
+item = y[-1]",IndexError
+"var = [1, 2, 3]
+item = var[10]",IndexError
+"data = [1, 2, 3]
+item = dct[100]",IndexError
+"mylist = [1, 2, 3]
+item = dct[-1]",IndexError
+"var = [1, 2, 3]
+item = mylist[-1]",IndexError
+"a = [1, 2, 3]
+item = data[100]",IndexError
+"data = [1, 2, 3]
+item = lst[3]",IndexError
+"var = [1, 2, 3]
+item = data[-1]",IndexError
+"lst = [1, 2, 3]
+item = foo[-1]",IndexError
+"bar = [1, 2, 3]
+item = var[3]",IndexError
+"a = [1, 2, 3]
+item = x[3]",IndexError
+"a = [1, 2, 3]
+item = b[10]",IndexError
+"dct = [1, 2, 3]
+item = y[100]",IndexError
+"lst = [1, 2, 3]
+item = lst[3]",IndexError
+"lst = [1, 2, 3]
+item = data[3]",IndexError
+"lst = [1, 2, 3]
+item = a[3]",IndexError
+"b = [1, 2, 3]
+item = mylist[3]",IndexError
+"lst = [1, 2, 3]
+item = mylist[-1]",IndexError
+"data = [1, 2, 3]
+item = lst[3]",IndexError
+"lst = [1, 2, 3]
+item = dct[-1]",IndexError
+"mylist = [1, 2, 3]
+item = data[10]",IndexError
+"dct = [1, 2, 3]
+item = var[10]",IndexError
+"y = [1, 2, 3]
+item = x[3]",IndexError
+"dct = [1, 2, 3]
+item = var[3]",IndexError
+"var = [1, 2, 3]
+item = a[10]",IndexError
+"y = [1, 2, 3]
+item = b[3]",IndexError
+"var = [1, 2, 3]
+item = dct[-1]",IndexError
+"var = [1, 2, 3]
+item = foo[100]",IndexError
+"dct = [1, 2, 3]
+item = data[3]",IndexError
+"y = [1, 2, 3]
+item = y[-1]",IndexError
+"y = [1, 2, 3]
+item = dct[-1]",IndexError
+"mylist = [1, 2, 3]
+item = data[-1]",IndexError
+"y = [1, 2, 3]
+item = a[100]",IndexError
+"bar = [1, 2, 3]
+item = lst[10]",IndexError
+"foo = [1, 2, 3]
+item = data[3]",IndexError
+"b = [1, 2, 3]
+item = y[3]",IndexError
+"foo = [1, 2, 3]
+item = x[3]",IndexError
+"foo = [1, 2, 3]
+item = x[10]",IndexError
+"foo = [1, 2, 3]
+item = a[3]",IndexError
+"a = [1, 2, 3]
+item = y[3]",IndexError
+"data = [1, 2, 3]
+item = lst[100]",IndexError
+"var = [1, 2, 3]
+item = dct[10]",IndexError
+"a = [1, 2, 3]
+item = x[100]",IndexError
+"bar = [1, 2, 3]
+item = mylist[-1]",IndexError
+"dct = [1, 2, 3]
+item = a[100]",IndexError
+"bar = [1, 2, 3]
+item = x[100]",IndexError
+"var = [1, 2, 3]
+item = data[-1]",IndexError
+"b = [1, 2, 3]
+item = data[10]",IndexError
+"a = [1, 2, 3]
+item = lst[3]",IndexError
+"lst = [1, 2, 3]
+item = lst[3]",IndexError
+"lst = [1, 2, 3]
+item = bar[-1]",IndexError
+"a = [1, 2, 3]
+item = data[100]",IndexError
+"b = [1, 2, 3]
+item = foo[3]",IndexError
+"lst = [1, 2, 3]
+item = dct[100]",IndexError
+"y = [1, 2, 3]
+item = a[100]",IndexError
+"foo = [1, 2, 3]
+item = lst[-1]",IndexError
+"b = [1, 2, 3]
+item = y[10]",IndexError
+"x = [1, 2, 3]
+item = a[100]",IndexError
+"bar = [1, 2, 3]
+item = dct[100]",IndexError
+"b = [1, 2, 3]
+item = var[3]",IndexError
+"foo = [1, 2, 3]
+item = y[100]",IndexError
+"a = [1, 2, 3]
+item = x[3]",IndexError
+"a = [1, 2, 3]
+item = b[3]",IndexError
+"y = [1, 2, 3]
+item = lst[3]",IndexError
+"b = [1, 2, 3]
+item = lst[-1]",IndexError
+"data = [1, 2, 3]
+item = foo[10]",IndexError
+"x = [1, 2, 3]
+item = foo[-1]",IndexError
+"foo = [1, 2, 3]
+item = foo[10]",IndexError
+"b = [1, 2, 3]
+item = b[10]",IndexError
+"mylist = [1, 2, 3]
+item = dct[-1]",IndexError
+"bar = [1, 2, 3]
+item = x[3]",IndexError
+"var = [1, 2, 3]
+item = x[100]",IndexError
+"x = [1, 2, 3]
+item = y[3]",IndexError
+"var = [1, 2, 3]
+item = y[-1]",IndexError
+"y = [1, 2, 3]
+item = lst[100]",IndexError
+"mylist = [1, 2, 3]
+item = data[100]",IndexError
+"mylist = [1, 2, 3]
+item = lst[3]",IndexError
+"data = [1, 2, 3]
+item = a[-1]",IndexError
+"var = [1, 2, 3]
+item = dct[100]",IndexError
+"data = [1, 2, 3]
+item = y[10]",IndexError
+"var = [1, 2, 3]
+item = bar[100]",IndexError
+"b = [1, 2, 3]
+item = bar[-1]",IndexError
+"a = [1, 2, 3]
+item = foo[10]",IndexError
+"foo = [1, 2, 3]
+item = lst[-1]",IndexError
+"a = [1, 2, 3]
+item = data[10]",IndexError
+"x = [1, 2, 3]
+item = dct[10]",IndexError
+"data = [1, 2, 3]
+item = dct[10]",IndexError
+"foo = [1, 2, 3]
+item = y[-1]",IndexError
+"var = [1, 2, 3]
+item = x[100]",IndexError
+"a = [1, 2, 3]
+item = mylist[-1]",IndexError
+"b = [1, 2, 3]
+item = mylist[10]",IndexError
+"y = [1, 2, 3]
+item = data[100]",IndexError
+"data = [1, 2, 3]
+item = x[10]",IndexError
+"a = [1, 2, 3]
+item = bar[3]",IndexError
+"foo = [1, 2, 3]
+item = var[100]",IndexError
+"data = [1, 2, 3]
+item = mylist[-1]",IndexError
+"mylist = [1, 2, 3]
+item = mylist[10]",IndexError
+"bar = [1, 2, 3]
+item = lst[-1]",IndexError
+"b = [1, 2, 3]
+item = a[3]",IndexError
+"foo = [1, 2, 3]
+item = bar[10]",IndexError
+"mylist = [1, 2, 3]
+item = a[10]",IndexError
+"var = [1, 2, 3]
+item = x[3]",IndexError
+"a = [1, 2, 3]
+item = y[100]",IndexError
+"var = [1, 2, 3]
+item = dct[-1]",IndexError
+"lst = [1, 2, 3]
+item = bar[100]",IndexError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+assert 2 + 2 == 5,AssertionError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+import not_a_real_module,ImportError
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"raise Exception(""something went wrong"")",Exception
+"b = 1 + 10
+print(b)",NO_BUG
+"data = 2 + 100
+print(data)",NO_BUG
+"bar = 42 + 100
+print(data)",NO_BUG
+"data = 2 + 42
+print(var)",NO_BUG
+"foo = 0 + 10
+print(a)",NO_BUG
+"x = 1 + 0
+print(b)",NO_BUG
+"a = 1 + 0
+print(a)",NO_BUG
+"foo = 0 + 0
+print(lst)",NO_BUG
+"b = 42 + 0
+print(a)",NO_BUG
+"mylist = 10 + 1
+print(lst)",NO_BUG
+"var = 10 + 1
+print(x)",NO_BUG
+"mylist = 42 + 42
+print(data)",NO_BUG
+"mylist = 42 + 10
+print(var)",NO_BUG
+"bar = 10 + 0
+print(x)",NO_BUG
+"foo = 42 + 100
+print(foo)",NO_BUG
+"x = 42 + 100
+print(dct)",NO_BUG
+"var = 1 + 0
+print(y)",NO_BUG
+"var = 100 + 42
+print(dct)",NO_BUG
+"mylist = 1 + 42
+print(var)",NO_BUG
+"var = 42 + 0
+print(data)",NO_BUG
+"a = 100 + 42
+print(lst)",NO_BUG
+"x = 100 + 0
+print(foo)",NO_BUG
+"foo = 10 + 100
+print(data)",NO_BUG
+"foo = 42 + 2
+print(bar)",NO_BUG
+"mylist = 100 + 2
+print(lst)",NO_BUG
+"mylist = 10 + 0
+print(y)",NO_BUG
+"a = 42 + 1
+print(x)",NO_BUG
+"x = 42 + 42
+print(foo)",NO_BUG
+"foo = 100 + 100
+print(data)",NO_BUG
+"dct = 42 + 0
+print(data)",NO_BUG
+"y = 100 + 1
+print(bar)",NO_BUG
+"lst = 1 + 2
+print(b)",NO_BUG
+"mylist = 10 + 2
+print(dct)",NO_BUG
+"mylist = 1 + 100
+print(mylist)",NO_BUG
+"a = 0 + 0
+print(b)",NO_BUG
+"data = 2 + 0
+print(bar)",NO_BUG
+"mylist = 10 + 1
+print(var)",NO_BUG
+"y = 1 + 1
+print(dct)",NO_BUG
+"foo = 1 + 100
+print(var)",NO_BUG
+"bar = 42 + 1
+print(x)",NO_BUG
+"foo = 2 + 2
+print(dct)",NO_BUG
+"x = 0 + 100
+print(b)",NO_BUG
+"data = 0 + 10
+print(x)",NO_BUG
+"a = 42 + 0
+print(foo)",NO_BUG
+"a = 100 + 42
+print(foo)",NO_BUG
+"lst = 2 + 2
+print(data)",NO_BUG
+"data = 0 + 42
+print(a)",NO_BUG
+"y = 1 + 2
+print(lst)",NO_BUG
+"y = 2 + 0
+print(dct)",NO_BUG
+"lst = 10 + 100
+print(a)",NO_BUG
+"foo = 42 + 0
+print(foo)",NO_BUG
+"a = 0 + 10
+print(data)",NO_BUG
+"data = 42 + 2
+print(dct)",NO_BUG
+"data = 0 + 10
+print(data)",NO_BUG
+"data = 42 + 0
+print(var)",NO_BUG
+"b = 2 + 1
+print(bar)",NO_BUG
+"data = 10 + 10
+print(x)",NO_BUG
+"foo = 100 + 100
+print(mylist)",NO_BUG
+"a = 100 + 0
+print(b)",NO_BUG
+"y = 100 + 2
+print(y)",NO_BUG
+"bar = 1 + 10
+print(y)",NO_BUG
+"lst = 0 + 100
+print(foo)",NO_BUG
+"y = 100 + 42
+print(b)",NO_BUG
+"lst = 100 + 100
+print(x)",NO_BUG
+"y = 100 + 42
+print(b)",NO_BUG
+"a = 0 + 10
+print(bar)",NO_BUG
+"a = 2 + 10
+print(lst)",NO_BUG
+"foo = 42 + 42
+print(b)",NO_BUG
+"data = 0 + 42
+print(data)",NO_BUG
+"b = 10 + 10
+print(dct)",NO_BUG
+"dct = 42 + 1
+print(x)",NO_BUG
+"x = 42 + 10
+print(data)",NO_BUG
+"bar = 1 + 1
+print(lst)",NO_BUG
+"dct = 2 + 0
+print(foo)",NO_BUG
+"foo = 10 + 100
+print(x)",NO_BUG
+"b = 1 + 42
+print(y)",NO_BUG
+"data = 0 + 42
+print(a)",NO_BUG
+"y = 10 + 10
+print(var)",NO_BUG
+"b = 0 + 100
+print(var)",NO_BUG
+"y = 0 + 10
+print(data)",NO_BUG
+"x = 1 + 1
+print(lst)",NO_BUG
+"bar = 0 + 1
+print(mylist)",NO_BUG
+"dct = 1 + 10
+print(dct)",NO_BUG
+"lst = 42 + 1
+print(bar)",NO_BUG
+"mylist = 0 + 0
+print(x)",NO_BUG
+"var = 1 + 0
+print(bar)",NO_BUG
+"a = 10 + 42
+print(lst)",NO_BUG
+"b = 100 + 42
+print(b)",NO_BUG
+"x = 1 + 0
+print(data)",NO_BUG
+"foo = 10 + 1
+print(b)",NO_BUG
+"foo = 10 + 10
+print(mylist)",NO_BUG
+"bar = 0 + 10
+print(bar)",NO_BUG
+"foo = 100 + 2
+print(b)",NO_BUG
+"mylist = 100 + 0
+print(lst)",NO_BUG
+"x = 1 + 10
+print(lst)",NO_BUG
+"x = 100 + 100
+print(mylist)",NO_BUG
+"x = 1 + 1
+print(dct)",NO_BUG
+"foo = 10 + 1
+print(foo)",NO_BUG
+"a = 42 + 100
+print(x)",NO_BUG
+"var = 0 + 100
+print(foo)",NO_BUG
+"lst = 100 + 100
+print(lst)",NO_BUG
+"x = 0 + 0
+print(bar)",NO_BUG
+"a = 10 + 1
+print(lst)",NO_BUG
+"a = 100 + 1
+print(bar)",NO_BUG
+"y = 10 + 42
+print(lst)",NO_BUG
+"x = 0 + 0
+print(a)",NO_BUG
+"bar = 42 + 10
+print(foo)",NO_BUG
+"lst = 100 + 1
+print(y)",NO_BUG
+"x = 10 + 2
+print(data)",NO_BUG
+"foo = 10 + 42
+print(b)",NO_BUG
+"a = 42 + 0
+print(var)",NO_BUG
+"data = 100 + 1
+print(mylist)",NO_BUG
+"y = 42 + 42
+print(bar)",NO_BUG
+"data = 0 + 42
+print(dct)",NO_BUG
+"var = 1 + 0
+print(bar)",NO_BUG
+"foo = 100 + 42
+print(foo)",NO_BUG
+"lst = 2 + 2
+print(y)",NO_BUG
+"foo = 1 + 10
+print(bar)",NO_BUG
+"b = 42 + 10
+print(var)",NO_BUG
+"data = 100 + 2
+print(y)",NO_BUG
+"lst = 0 + 2
+print(lst)",NO_BUG
+"a = 10 + 1
+print(b)",NO_BUG
+"y = 2 + 10
+print(b)",NO_BUG
+"y = 2 + 100
+print(dct)",NO_BUG
+"data = 100 + 100
+print(b)",NO_BUG
+"var = 100 + 10
+print(foo)",NO_BUG
+"data = 42 + 2
+print(x)",NO_BUG
+"a = 1 + 0
+print(foo)",NO_BUG
+"data = 42 + 2
+print(x)",NO_BUG
+"var = 10 + 2
+print(lst)",NO_BUG
+"dct = 1 + 10
+print(var)",NO_BUG
+"data = 0 + 1
+print(b)",NO_BUG
+"b = 1 + 10
+print(var)",NO_BUG
+"b = 0 + 0
+print(mylist)",NO_BUG
+"a = 0 + 1
+print(data)",NO_BUG
+"var = 1 + 2
+print(lst)",NO_BUG
+"bar = 42 + 100
+print(dct)",NO_BUG
+"bar = 0 + 2
+print(bar)",NO_BUG
+"bar = 42 + 1
+print(foo)",NO_BUG
+"data = 100 + 10
+print(data)",NO_BUG
+"b = 0 + 100
+print(x)",NO_BUG
+"a = 1 + 0
+print(var)",NO_BUG
+"dct = 2 + 2
+print(data)",NO_BUG
+"bar = 1 + 0
+print(var)",NO_BUG
+"lst = 42 + 42
+print(foo)",NO_BUG
+"b = 0 + 10
+print(y)",NO_BUG
+"var = 0 + 42
+print(var)",NO_BUG
+"mylist = 100 + 2
+print(var)",NO_BUG
+"var = 10 + 1
+print(foo)",NO_BUG
+"foo = 100 + 0
+print(x)",NO_BUG
+"b = 42 + 100
+print(data)",NO_BUG
+"b = 42 + 10
+print(lst)",NO_BUG
+"x = 0 + 0
+print(data)",NO_BUG
+"bar = 2 + 2
+print(y)",NO_BUG
+"foo = 100 + 42
+print(y)",NO_BUG
+"mylist = 42 + 0
+print(y)",NO_BUG
+"a = 2 + 2
+print(a)",NO_BUG
+"data = 0 + 100
+print(var)",NO_BUG
+"y = 10 + 1
+print(b)",NO_BUG
+"b = 2 + 2
+print(a)",NO_BUG
+"var = 10 + 10
+print(a)",NO_BUG
+"foo = 1 + 100
+print(a)",NO_BUG
+"x = 0 + 0
+print(dct)",NO_BUG
+"dct = 42 + 0
+print(lst)",NO_BUG
+"foo = 100 + 0
+print(data)",NO_BUG
+"foo = 10 + 2
+print(y)",NO_BUG
+"x = 1 + 100
+print(var)",NO_BUG
+"x = 2 + 10
+print(data)",NO_BUG
+"data = 42 + 42
+print(foo)",NO_BUG
+"x = 100 + 42
+print(y)",NO_BUG
+"bar = 42 + 10
+print(dct)",NO_BUG
+"mylist = 1 + 0
+print(a)",NO_BUG
+"mylist = 10 + 10
+print(lst)",NO_BUG
+"mylist = 42 + 100
+print(lst)",NO_BUG
+"foo = 2 + 10
+print(data)",NO_BUG
+"data = 2 + 1
+print(foo)",NO_BUG
+"data = 100 + 10
+print(y)",NO_BUG
+"x = 2 + 2
+print(a)",NO_BUG
+"b = 0 + 2
+print(dct)",NO_BUG
+"b = 2 + 2
+print(foo)",NO_BUG
+"data = 0 + 42
+print(var)",NO_BUG
+"bar = 100 + 1
+print(foo)",NO_BUG
+"lst = 2 + 0
+print(data)",NO_BUG
+"var = 100 + 10
+print(b)",NO_BUG
+"lst = 2 + 10
+print(dct)",NO_BUG
+"data = 1 + 1
+print(mylist)",NO_BUG
+"mylist = 2 + 10
+print(foo)",NO_BUG
+"x = 100 + 0
+print(a)",NO_BUG
+"data = 0 + 42
+print(a)",NO_BUG
+"x = 2 + 1
+print(a)",NO_BUG
+"lst = 100 + 42
+print(dct)",NO_BUG
+"b = 42 + 10
+print(a)",NO_BUG
+"y = 10 + 10
+print(y)",NO_BUG
+"b = 2 + 100
+print(x)",NO_BUG
+"x = 42 + 42
+print(lst)",NO_BUG
+"dct = 2 + 10
+print(lst)",NO_BUG
+"var = 0 + 42
+print(b)",NO_BUG
+"foo = 42 + 42
+print(dct)",NO_BUG
+"bar = 2 + 10
+print(data)",NO_BUG
+"dct = 10 + 10
+print(a)",NO_BUG
